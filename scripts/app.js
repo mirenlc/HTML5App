@@ -1,6 +1,7 @@
 /**
  * @copyright: (C)2016-2022 Kibble Online Inc., in cooperation with Vancouver Film School
  * @author: Scott Henshaw {@link mailto:shenshaw@vfs.com}
+ * @author: Vincent van Haaff {@link mailto:vhaaf@vfs.com}
  */
 'use strict';
 
